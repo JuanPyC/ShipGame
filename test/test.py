@@ -1,7 +1,7 @@
 import unittest
 import sys
 sys.path.append("src")
-from src.Logic.NavalWarfare import NavalWarfare, Player, convert_location
+from Logic.NavalWarfare import NavalWarfare, Player, convert_location
 
 class TestNavalWarfareSuccess(unittest.TestCase):
 
